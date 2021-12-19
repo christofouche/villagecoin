@@ -1,0 +1,2 @@
+# villagecoin
+Creating a CryptoCoin
